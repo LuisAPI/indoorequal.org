@@ -72,7 +72,7 @@
     "mapbox-gl-indoorequal": "^0.2.9",
     "maplibre-gl": ">=1.15.2",
     "opening_hours": "^3.5.0",
-    "osm2geojson-lite": "^0.9.1",
+    "osm2geojson-lite": "^0.9.9",
     "vue": "^2.6.9",
     "vue-i18n": "^8.21.1",
     "vue-mapbox": "osmontrouge/vue-mapbox#update",
