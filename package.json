@@ -66,7 +66,7 @@
     "@turf/line-to-polygon": "^6.5.0",
     "country-language": "bdswiss/country-language",
     "dayjs": "^1.10.7",
-    "i18next-client": "^1.11.1",
+    "i18next-client": "^1.11.5",
     "jszip": "^3.7.1",
     "lodash.uniq": "^4.5.0",
     "mapbox-gl-indoorequal": "^0.2.9",
